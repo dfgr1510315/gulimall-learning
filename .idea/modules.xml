@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MicroServiceMall.iml" filepath="$PROJECT_DIR$/.idea/MicroServiceMall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-auth-server/gulimall-auth-server.iml" filepath="$PROJECT_DIR$/gulimall-auth-server/gulimall-auth-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/gulimall-coupon/gulimall-coupon.iml" filepath="$PROJECT_DIR$/gulimall-coupon/gulimall-coupon.iml" />
     </modules>
   </component>

@@ -11,6 +11,7 @@
 
     <modules>
         <module>gulimall-coupon</module>
+        <module>gulimall-auth-server</module>
         <!--<module>gulimall-member</module>
         <module>gulimall-order</module>
         <module>gulimall-product</module>

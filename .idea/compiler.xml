@@ -7,7 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gulimall-coupon" />
+        <module name="gulimall-auth-server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gulimall-auth-server" target="1.5" />
+      <module name="gulimall-coupon" target="1.5" />
+      <module name="MicroServiceMall" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
