@@ -1,0 +1,190 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"70dd3b51-c4cf-4d0a-9de9-979ac7fd64df\" name=\"Default Changelist\" comment=\"1\">\r\n      <change beforePath=\"$PROJECT_DIR$/gulimall-coupon/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/gulimall-coupon/pom.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2DWJLy00sj5ONKZAKDvBzmQOxbz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"vcs.Git\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <module name=\"gulimall\" />\r\n      <option name=\"VM_PARAMETERS\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" />\r\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\r\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\r\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"MAIN_CLASS_NAME\" />\r\n      <option name=\"WORKING_DIRECTORY\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <module name=\"gulimall\" />\r\n      <option name=\"filePath\" />\r\n      <option name=\"vmParameters\" />\r\n      <option name=\"alternativeJrePath\" />\r\n      <option name=\"programParameters\" />\r\n      <option name=\"passParentEnvs\" value=\"true\" />\r\n      <option name=\"workingDirectory\" />\r\n      <option name=\"isAlternativeJrePathEnabled\" value=\"false\" />\r\n      <option name=\"VM_PARAMETERS\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" />\r\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\r\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\r\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"MAIN_CLASS_NAME\" />\r\n      <option name=\"WORKING_DIRECTORY\" />\r\n      <option name=\"filePath\" />\r\n      <option name=\"vmParameters\" />\r\n      <option name=\"alternativeJrePath\" />\r\n      <option name=\"programParameters\" />\r\n      <option name=\"passParentEnvs\" value=\"true\" />\r\n      <option name=\"workingDirectory\" />\r\n      <option name=\"isAlternativeJrePathEnabled\" value=\"false\" />\r\n      <option name=\"VM_PARAMETERS\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" />\r\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\r\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\r\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"MAIN_CLASS_NAME\" />\r\n      <option name=\"WORKING_DIRECTORY\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"70dd3b51-c4cf-4d0a-9de9-979ac7fd64df\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1660808854561</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1660808854561</updated>\r\n      <workItem from=\"1660808857736\" duration=\"5055000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"项目提交\">\r\n      <created>1660813946053</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1660813946053</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"项目提交\">\r\n      <created>1660814152213</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1660814152213</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"项目提交\">\r\n      <created>1660814843583</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1660814843583</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"1\">\r\n      <created>1660814978868</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1660814978868</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"2\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"项目提交\" />\r\n    <MESSAGE value=\"1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"1\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"361\" y=\"71\" key=\"#Deployment\" timestamp=\"1660814522424\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"361\" y=\"71\" key=\"#Deployment/0.0.1536.824@0.0.1536.824\" timestamp=\"1660814522424\" />\r\n    <state x=\"537\" y=\"202\" key=\"#TODO\" timestamp=\"1660814516486\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"537\" y=\"202\" key=\"#TODO/0.0.1536.824@0.0.1536.824\" timestamp=\"1660814516486\" />\r\n    <state x=\"528\" y=\"110\" key=\"FileChooserDialogImpl\" timestamp=\"1660813847248\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"528\" y=\"110\" key=\"FileChooserDialogImpl/0.0.1536.824@0.0.1536.824\" timestamp=\"1660813847248\" />\r\n    <state x=\"640\" y=\"310\" key=\"Github.ShareDialog\" timestamp=\"1660814414151\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"640\" y=\"310\" key=\"Github.ShareDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1660814414151\" />\r\n    <state x=\"249\" y=\"0\" key=\"SettingsEditor\" timestamp=\"1660814750075\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"249\" y=\"0\" key=\"SettingsEditor/0.0.1536.824@0.0.1536.824\" timestamp=\"1660814750075\" />\r\n    <state x=\"361\" y=\"132\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1660814991633\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"361\" y=\"132\" key=\"Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824\" timestamp=\"1660814991633\" />\r\n    <state x=\"588\" y=\"273\" key=\"git4idea.rebase.GitRebaseDialog\" timestamp=\"1660814542413\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"588\" y=\"273\" key=\"git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1660814542413\" />\r\n    <state x=\"570\" y=\"319\" width=\"581\" height=\"266\" key=\"git4idea.remote.GitConfigureRemotesDialog\" timestamp=\"1660814945783\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"570\" y=\"319\" width=\"581\" height=\"266\" key=\"git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1660814945783\" />\r\n    <state x=\"178\" y=\"73\" key=\"new project wizard\" timestamp=\"1660811696452\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"178\" y=\"73\" key=\"new project wizard/0.0.1536.824@0.0.1536.824\" timestamp=\"1660811696452\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 1b8c9e61c13495ade2debeede8aa72cec51b327d)
++++ .idea/workspace.xml	(date 1660870107602)
+@@ -1,14 +1,72 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </select>
++  </component>
+   <component name="ChangeListManager">
+     <list default="true" id="70dd3b51-c4cf-4d0a-9de9-979ac7fd64df" name="Default Changelist" comment="1">
+-      <change beforePath="$PROJECT_DIR$/gulimall-coupon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/pom.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
++  <component name="Git.Settings">
++    <excluded-from-favorite>
++      <branch-storage>
++        <map>
++          <entry type="REMOTE">
++            <value>
++              <list>
++                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
++              </list>
++            </value>
++          </entry>
++        </map>
++      </branch-storage>
++    </excluded-from-favorite>
++    <favorite-branches>
++      <branch-storage>
++        <map>
++          <entry type="REMOTE">
++            <value>
++              <list>
++                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
++              </list>
++            </value>
++          </entry>
++        </map>
++      </branch-storage>
++    </favorite-branches>
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="6beecd7967e870e8880e309e0b6d76b0b958925d" />
++      </map>
++    </option>
++  </component>
+   <component name="ProjectId" id="2DWJLy00sj5ONKZAKDvBzmQOxbz" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+@@ -93,6 +151,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1660808854561</updated>
+       <workItem from="1660808857736" duration="5055000" />
++      <workItem from="1660869230219" duration="619000" />
+     </task>
+     <task id="LOCAL-00001" summary="项目提交">
+       <created>1660813946053</created>
+@@ -127,6 +186,51 @@
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="2" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="origin/master" />
++                      </list>
++                    </value>
++                  </entry>
++                  <entry key="user">
++                    <value>
++                      <list>
++                        <option value="*" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="RECENT_FILTERS">
++      <map>
++        <entry key="User">
++          <value>
++            <list>
++              <RecentGroup>
++                <option name="FILTER_VALUES">
++                  <option value="*" />
++                </option>
++              </RecentGroup>
++            </list>
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="项目提交" />
+@@ -154,18 +258,22 @@
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1660814750075" />
+-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1660814991633">
++    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1660869721175">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1660814991633" />
++    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1660869721175" />
++    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1660870107554">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1660870107554" />
+     <state x="588" y="273" key="git4idea.rebase.GitRebaseDialog" timestamp="1660814542413">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+     <state x="588" y="273" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1660814542413" />
+-    <state x="570" y="319" width="581" height="266" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1660814945783">
++    <state x="570" y="319" width="581" height="266" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1660869907806">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+-    <state x="570" y="319" width="581" height="266" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1660814945783" />
++    <state x="570" y="319" width="581" height="266" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1660869907806" />
+     <state x="178" y="73" key="new project wizard" timestamp="1660811696452">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"CompilerConfiguration\">\r\n    <annotationProcessing>\r\n      <profile name=\"Maven default annotation processors profile\" enabled=\"true\">\r\n        <sourceOutputDir name=\"target/generated-sources/annotations\" />\r\n        <sourceTestOutputDir name=\"target/generated-test-sources/test-annotations\" />\r\n        <outputRelativeToContentRoot value=\"true\" />\r\n        <module name=\"gulimall-coupon\" />\r\n      </profile>\r\n    </annotationProcessing>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/compiler.xml	(revision 1b8c9e61c13495ade2debeede8aa72cec51b327d)
++++ .idea/compiler.xml	(date 1660870007052)
+@@ -9,5 +9,9 @@
+         <module name="gulimall-coupon" />
+       </profile>
+     </annotationProcessing>
++    <bytecodeTargetLevel>
++      <module name="gulimall-coupon" target="1.5" />
++      <module name="MicroServiceMall" target="1.5" />
++    </bytecodeTargetLevel>
+   </component>
+ </project>
+\ No newline at end of file
